@@ -1,0 +1,11 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.bg-green {
+  background-color: rgb(134, 200, 134);
+}
+.bg-gray {
+  background-color: #eee;
+}

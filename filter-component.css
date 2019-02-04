@@ -1,0 +1,16 @@
+#filter {
+  background: #eee;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+
+}
+.filter-flex {
+  margin-right: 20px;
+}
+input, label {
+  display: block;
+}
+label {
+  margin-top: 10px;
+}
